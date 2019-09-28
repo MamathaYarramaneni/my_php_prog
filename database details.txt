@@ -1,0 +1,10 @@
+I used XAMPP server with phpMyAdmin.
+
+I created database(for users) with values :
+1.id
+2.name-for user name
+3.pwd-for user password
+4.age-for user age
+5.created_at-for time of creation.
+
+

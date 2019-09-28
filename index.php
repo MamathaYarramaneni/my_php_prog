@@ -17,7 +17,6 @@
     <head>
 </head>
     <body>
-        <h4>Pizzas!</h4>
         <?php include('content.php') ?>
         <div class="row">
             <?php  foreach($users as $user){ ?>
